@@ -1,6 +1,5 @@
-<h1 align="center">Ola 👋, Eu sou o Arthur Quintino</h1>
-<h3 align="center">Sou um estudante da Etec Basilides de Godoy cursando Desenvolvimento de Sistemas</h3>
------------
+<h1 align="left">Ola 👋, Eu sou o Arthur Quintino</h1>
+<h3 align="left">Sou um estudante da Etec Basilides de Godoy cursando Desenvolvimento de Sistemas</h3>
 <h3 align="left">Entre em contato >:)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arthur quintino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur quintino" height="30" width="40" /></a>
