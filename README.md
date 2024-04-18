@@ -1,4 +1,6 @@
-Hey, eu sou arthur mas pode me chamar de quintino, sou um estudante da Etec Basilides de Godoy cursando Desenvolvimento de Sistemas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&pause=1000&color=59F707&random=false&width=435&lines=Ol%C3%A1+eu+sou+o+Arthur+e+Seja+bem+vindo+%3E%3A))](https://git.io/typing-svg)
+
+## Atualmente estou cursando desenvolvimento de sistemas na etec prof. Basilides de Godoy
 
 
 ## 🌐 Redes Sociais:
