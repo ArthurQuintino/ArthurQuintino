@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&pause=1000&color=59F707&random=false&width=435&lines=hey+l+am+Arthur+Welcome+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=100&pause=1000&color=59F707&random=false&width=435&lines=hey+l+am+Arthur+Good+to+see+you🤠)](https://git.io/typing-svg)
 
 ## Atualmente estou cursando desenvolvimento de sistemas na etec prof. Basilides de Godoy
 
